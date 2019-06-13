@@ -1,0 +1,2 @@
+用到的库
+go get -u github.com/go-ini/ini
